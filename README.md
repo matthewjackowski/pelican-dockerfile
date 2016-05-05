@@ -8,6 +8,6 @@ Also a volume has been added so you can simply map to an existing Pelican direct
 
 Some sane requirements have been pre-built into the image.
 
-The repository with the Dockerfile can be found here: https://github.com/matthewjackowski/pelican-dockerfile
+The DockerHub repository can be found here: https://hub.docker.com/r/mjjacko/pelican/
 
 ![Using the image](http://i.giphy.com/l41Yhz2wayIiyCyQM.gif)

@@ -10,4 +10,4 @@ Some sane requirements have been pre-built into the image.
 
 The DockerHub repository can be found here: https://hub.docker.com/r/mjjacko/pelican/
 
-![Using the image](http://i.giphy.com/l41Yhz2wayIiyCyQM.gif)
+![Using the image](http://i.giphy.com/l396GL1mien20Tap2.gif)
